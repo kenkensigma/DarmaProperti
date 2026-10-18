@@ -1,12 +1,3 @@
-/**
- * Darma Properti — Central Site Configuration
- * 
- * PANDUAN PENGATURAN:
- * 1. whatsappNumber: Masukkan nomor WhatsApp resmi dengan kode negara tanpa tanda '+' atau spasi (contoh: "6281234567890").
- *    Biarkan kosong "" hingga nomor resmi diverifikasi.
- * 2. phoneDisplay: Tampilan nomor telepon yang dibaca pengguna (contoh: "+62 812-3456-7890").
- * 3. address & email: Hanya isi jika data resmi telah terkonfirmasi. Jika kosong, UI otomatis menyembunyikan item ini.
- */
 export const siteConfig = {
   brandName: "Darma Properti",
   tagline: {
